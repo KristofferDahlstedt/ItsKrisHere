@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kris
+- 👀 I’m interested in p5.js and Unity
+- 🌱 I’m currently learning Unity
+- 📫 How to reach me kristoffer.dahlstedt@gmail.com
